@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="5Ev*2Qt.L8^lyrP=XPVg" x="109" y="43"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="synth_set_volume" id="Dxzcjh0L+{_lXTw9:1yO"><value name="Volume"><shadow type="math_number_minmax" id="B-94g`!Cx2PENDAw:D4T"><mutation min="0" max="255" label="Volume" precision="0"></mutation><field name="SLIDER">255</field></shadow></value><next><block type="playMelody" id="|x:yE@u;MkL}:9dHB=}o"><value name="melody"><shadow type="melody_editor" id="N[^NV1BsPi)3XK.}Mken"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="M}9h6!q_oC4GI|_.Wzs-"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">500</field></shadow></value><next><block type="device_print_message" id=";TXW5V|dJyXCG.;*UT]u"><value name="text"><shadow type="text" id="/dneHJ-KvSLT$K}BdZ~H"><field name="TEXT">Hallo Jilani!</field></shadow></value><next><block type="device_show_leds" id="piu^5_cPZC*fV`[UHLnW"><field name="LEDS">`
+        # . . . . 
+        # # # . # 
+        # # # . # 
+        . # # . # 
+        # . . # #
+        `</field><next><block type="device_show_leds" id="B=Kg7i1Z6;hH+Z{M5e%P"><field name="LEDS">`
+        . # # # # 
+        . . . # . 
+        . . . # . 
+        # . . # . 
+        . # # . .
+        `</field><next><block type="device_show_leds" id="7|ad)c-cAho4q6pRK(J,"><field name="LEDS">`
+        # . . . . 
+        # # # . # 
+        # # # . # 
+        . # # . # 
+        # . . # #
+        `</field><next><block type="device_show_leds" id="(#Fwa8e)0,R*hgDnn8wd"><field name="LEDS">`
+        . # # # # 
+        . . . # . 
+        . . . # . 
+        # . . # . 
+        . # # . .
+        `</field><next><block type="playMelody" id="7Ru52S,5Xvgb,bjtKu^A"><value name="melody"><shadow type="melody_editor" id="aG9a;p/aO(aGmCddc=SQ"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="]!@g!HN_~mFBdDp@S2ue"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">500</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
